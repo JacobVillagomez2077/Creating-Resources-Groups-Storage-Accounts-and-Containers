@@ -4,17 +4,16 @@
 </p>
 
 <h1>Creating Resources Groups, Storage Account, and Containers in Azure</h1>
-In this tutorial, we create a Resource Group in Azure then we will put a Storage Account in the RG. We will then create a container to upload a txt.file into while observing we can edit the txt.file. <br />
+In this tutorial, we create a Resource Group in Microsoft Azure then we will put a Storage Account in the RG. We will create a container to upload a txt.file, once we are done observing we can edit the txt.file. <br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+- ### [YouTube: Lab 1 : Creating Resources Groups, Storage Accounts, and Containers](https://youtu.be/CRi-_34rD-Y)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Resoruce Groups / Storage Accounts / Containers)
-- Remote Desktop 
 
 
 <h2>Operating Systems Used </h2>
